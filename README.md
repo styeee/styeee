@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @styeee
+- 👀 I’m interested in C/C+ and ( (C++/C with assembler)=COMPUTER_ARHITECTURE or (C++/C with Lua)=COMPUTER_GRAPHICS )
+- 🌱 I’m currently learning microconrollers
+- 💞️ I’m looking to collaborate on OpenGL
+- 📫 How to reach me Discord: sti#7866 (dont be shy to write me anything u want)
+
+<!---
+styeee/styeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
